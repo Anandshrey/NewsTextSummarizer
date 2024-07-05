@@ -1,2 +1,2 @@
-# NewsRecommender
-News Recommender using TF-idf based vectorizer and cosine simalrity
+# News Text Summarizer
+Summarizes the text of a news article using Text Rank Algorithm
